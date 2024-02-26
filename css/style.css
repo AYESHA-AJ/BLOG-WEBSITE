@@ -336,4 +336,36 @@ transition: all .45s ease;
 .featured-card{
     width: 100%;
 }
+.blog-header> div{
+    display: none;
+}
+.title{
+    margin-top: 0;
+}
+.SmartUv{
+    flex-direction: column;
+}
+.blog-card{
+    width: 100%;
+}
+.newsletter{
+    height: auto;
+    padding: 10px 0;
+}
+.newsletter p{
+    width: 95%;
+}
+input[type="email"]{
+    width:80%;
+    margin-right: 0;
+    margin-bottom: 20px;
+}
+.footer-container{
+    flex-direction: column;
+
+}
+.web-pages{
+    flex-wrap: wrap;
+    margin-top: 48px;
+}
 }
